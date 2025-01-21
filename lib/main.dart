@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         BlocProvider(create: (BuildContext context) => GetHealthDataCubit()),
       ],
       child: MaterialApp(
-        title: 'Flutter Demo',
+        title: 'Flutter Demoo',
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
